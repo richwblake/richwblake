@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richwblake
+- 👋 Hi, I’m Wills
 
 I am a web developer specializing in Javascript, Ruby on Rails, and DevOps
 
